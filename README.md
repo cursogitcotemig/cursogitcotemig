@@ -7,3 +7,7 @@ executar o camando
 ```
 npm instal
 ```
+
+```
+node app.js
+```
